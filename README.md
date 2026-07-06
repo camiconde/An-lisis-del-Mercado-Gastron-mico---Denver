@@ -1,4 +1,4 @@
-# An-lisis-del-Mercado-Gastron-mico---Denver
+# Analisis del Mercado Gastronomico de Denver
 Este documento resume los hallazgos y el proceso técnico realizado para el análisis de  viabilidad de restaurantes vegetarianos en Denver, Colorado. 
 Análisis del Mercado Gastronómico - 
 Denver 
